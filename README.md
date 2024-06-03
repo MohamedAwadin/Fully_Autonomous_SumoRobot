@@ -19,7 +19,7 @@ This project features a fully autonomous sumo robot designed for sumo wrestling 
 ## Installation and Setup
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/yourusername/Fully_Autonomous_Sumo_Robot.git
+   git clone https://github.com/MohamedAwadin/Fully_Autonomous_Sumo_Robot.git
    cd Fully_Autonomous_Sumo_Robot
    ```
 2. **Open in Arduino IDE:**
