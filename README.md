@@ -1,5 +1,5 @@
 # Fully Autonomous Sumo Robot
-
+![Sumo Robot](images/sumo_robot.jpg)
 ## Overview
 This project features a fully autonomous sumo robot designed for sumo wrestling competitions. The robot uses various sensors and motors to detect the opponent, navigate the ring, and attempt to push the opponent out of the ring while avoiding being pushed out itself.
 
